@@ -124,3 +124,31 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.contactus-img{
+  width: 20%;
+  height: auto;
+  display: block;
+}
+
+.contact-wrapping-div{
+  display: flex;
+  align-content: center;
+
+}
+
+.contact-info{
+  flex-basis: 100%;
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+.contact-info p{
+   width: 100%;
+}
+
+.contact-page-title{
+  text-align: center;
+  margin: 1rem 0;
+}
